@@ -1,4 +1,4 @@
-public class main {
+public class Main {
     public static void main(String[] args) {
         int balans = 253;
         int transfer = 1356;
